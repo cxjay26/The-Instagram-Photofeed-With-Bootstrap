@@ -1,0 +1,30 @@
+.btn {
+    background-color: transparent;
+}
+.icon {
+    height: 25px;
+    width: 25px;
+    border: black 1px;
+}
+.container {
+    margin: 0;
+}
+.navPill {
+    justify-content: center;
+    }
+.title {
+    display: inline-block;
+    float: left;
+}
+
+.date {
+    display: inline-block;
+    float: right;
+}
+.card-img-top {
+    width: 360px;
+    height: 239px;
+}
+.card {
+    justify-content: center;
+}
